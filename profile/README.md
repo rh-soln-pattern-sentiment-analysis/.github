@@ -17,3 +17,6 @@ Globex would like to
 
 * Moderate the language comments to ensure foul language is appropriately filtered out
 * Build a Sentiment Analysis system to gain business intelligence based on the product reviews
+
+
+The Solution Pattern page can be found at: https://redhat-solution-patterns.github.io/solution-pattern-sentiment-analysis
